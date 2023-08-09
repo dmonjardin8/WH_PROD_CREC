@@ -1,0 +1,193 @@
+C:\Users\ppacheco\Documents\1 DANIELA\1.GIT\WEBHOOKS\whCreciendo\wh_Creciendo\wh_Creciendo\obj\Debug\net6.0\wh_Creciendo.csproj.AssemblyReference.cache
+C:\Users\ppacheco\Documents\1 DANIELA\1.GIT\WEBHOOKS\whCreciendo\wh_Creciendo\wh_Creciendo\obj\Debug\net6.0\wh_Creciendo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ppacheco\Documents\1 DANIELA\1.GIT\WEBHOOKS\whCreciendo\wh_Creciendo\wh_Creciendo\obj\Debug\net6.0\wh_Creciendo.AssemblyInfoInputs.cache
+C:\Users\ppacheco\Documents\1 DANIELA\1.GIT\WEBHOOKS\whCreciendo\wh_Creciendo\wh_Creciendo\obj\Debug\net6.0\wh_Creciendo.AssemblyInfo.cs
+C:\Users\ppacheco\Documents\1 DANIELA\1.GIT\WEBHOOKS\whCreciendo\wh_Creciendo\wh_Creciendo\obj\Debug\net6.0\wh_Creciendo.csproj.CoreCompileInputs.cache
+C:\Users\ppacheco\Documents\1 DANIELA\1.GIT\WEBHOOKS\whCreciendo\wh_Creciendo\wh_Creciendo\obj\Debug\net6.0\wh_Creciendo.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\ppacheco\Documents\1 DANIELA\1.GIT\WEBHOOKS\whCreciendo\wh_Creciendo\wh_Creciendo\obj\Debug\net6.0\wh_Creciendo.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\ppacheco\Documents\1 DANIELA\1.GIT\WEBHOOKS\whCreciendo\wh_Creciendo\wh_Creciendo\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\ppacheco\Documents\1 DANIELA\1.GIT\WEBHOOKS\whCreciendo\wh_Creciendo\wh_Creciendo\bin\Debug\net6.0\appsettings.json
+C:\Users\ppacheco\Documents\1 DANIELA\1.GIT\WEBHOOKS\whCreciendo\wh_Creciendo\wh_Creciendo\bin\Debug\net6.0\wh_Creciendo.exe
+C:\Users\ppacheco\Documents\1 DANIELA\1.GIT\WEBHOOKS\whCreciendo\wh_Creciendo\wh_Creciendo\bin\Debug\net6.0\wh_Creciendo.deps.json
+C:\Users\ppacheco\Documents\1 DANIELA\1.GIT\WEBHOOKS\whCreciendo\wh_Creciendo\wh_Creciendo\bin\Debug\net6.0\wh_Creciendo.runtimeconfig.json
+C:\Users\ppacheco\Documents\1 DANIELA\1.GIT\WEBHOOKS\whCreciendo\wh_Creciendo\wh_Creciendo\bin\Debug\net6.0\wh_Creciendo.dll
+C:\Users\ppacheco\Documents\1 DANIELA\1.GIT\WEBHOOKS\whCreciendo\wh_Creciendo\wh_Creciendo\bin\Debug\net6.0\wh_Creciendo.pdb
+C:\Users\ppacheco\Documents\1 DANIELA\1.GIT\WEBHOOKS\whCreciendo\wh_Creciendo\wh_Creciendo\bin\Debug\net6.0\Microsoft.OpenApi.dll
+C:\Users\ppacheco\Documents\1 DANIELA\1.GIT\WEBHOOKS\whCreciendo\wh_Creciendo\wh_Creciendo\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\ppacheco\Documents\1 DANIELA\1.GIT\WEBHOOKS\whCreciendo\wh_Creciendo\wh_Creciendo\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\ppacheco\Documents\1 DANIELA\1.GIT\WEBHOOKS\whCreciendo\wh_Creciendo\wh_Creciendo\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\ppacheco\Documents\1 DANIELA\1.GIT\WEBHOOKS\whCreciendo\wh_Creciendo\wh_Creciendo\obj\Debug\net6.0\staticwebassets\msbuild.wh_Creciendo.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\ppacheco\Documents\1 DANIELA\1.GIT\WEBHOOKS\whCreciendo\wh_Creciendo\wh_Creciendo\obj\Debug\net6.0\staticwebassets\msbuild.build.wh_Creciendo.props
+C:\Users\ppacheco\Documents\1 DANIELA\1.GIT\WEBHOOKS\whCreciendo\wh_Creciendo\wh_Creciendo\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.wh_Creciendo.props
+C:\Users\ppacheco\Documents\1 DANIELA\1.GIT\WEBHOOKS\whCreciendo\wh_Creciendo\wh_Creciendo\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.wh_Creciendo.props
+C:\Users\ppacheco\Documents\1 DANIELA\1.GIT\WEBHOOKS\whCreciendo\wh_Creciendo\wh_Creciendo\obj\Debug\net6.0\staticwebassets.pack.json
+C:\Users\ppacheco\Documents\1 DANIELA\1.GIT\WEBHOOKS\whCreciendo\wh_Creciendo\wh_Creciendo\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\ppacheco\Documents\1 DANIELA\1.GIT\WEBHOOKS\whCreciendo\wh_Creciendo\wh_Creciendo\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\ppacheco\Documents\1 DANIELA\1.GIT\WEBHOOKS\whCreciendo\wh_Creciendo\wh_Creciendo\obj\Debug\net6.0\scopedcss\bundle\wh_Creciendo.styles.css
+C:\Users\ppacheco\Documents\1 DANIELA\1.GIT\WEBHOOKS\whCreciendo\wh_Creciendo\wh_Creciendo\obj\Debug\net6.0\wh_Creciendo.csproj.CopyComplete
+C:\Users\ppacheco\Documents\1 DANIELA\1.GIT\WEBHOOKS\whCreciendo\wh_Creciendo\wh_Creciendo\obj\Debug\net6.0\wh_Creciendo.dll
+C:\Users\ppacheco\Documents\1 DANIELA\1.GIT\WEBHOOKS\whCreciendo\wh_Creciendo\wh_Creciendo\obj\Debug\net6.0\refint\wh_Creciendo.dll
+C:\Users\ppacheco\Documents\1 DANIELA\1.GIT\WEBHOOKS\whCreciendo\wh_Creciendo\wh_Creciendo\obj\Debug\net6.0\wh_Creciendo.pdb
+C:\Users\ppacheco\Documents\1 DANIELA\1.GIT\WEBHOOKS\whCreciendo\wh_Creciendo\wh_Creciendo\obj\Debug\net6.0\wh_Creciendo.genruntimeconfig.cache
+C:\Users\ppacheco\Documents\1 DANIELA\1.GIT\WEBHOOKS\whCreciendo\wh_Creciendo\wh_Creciendo\obj\Debug\net6.0\ref\wh_Creciendo.dll
+C:\Users\jvargas\Desktop\Dani\WEBHOOKS\WEBHOOKS\whCreciendo\wh_Creciendo\wh_Creciendo\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\jvargas\Desktop\Dani\WEBHOOKS\WEBHOOKS\whCreciendo\wh_Creciendo\wh_Creciendo\bin\Debug\net6.0\appsettings.json
+C:\Users\jvargas\Desktop\Dani\WEBHOOKS\WEBHOOKS\whCreciendo\wh_Creciendo\wh_Creciendo\bin\Debug\net6.0\wh_Creciendo.exe
+C:\Users\jvargas\Desktop\Dani\WEBHOOKS\WEBHOOKS\whCreciendo\wh_Creciendo\wh_Creciendo\bin\Debug\net6.0\wh_Creciendo.deps.json
+C:\Users\jvargas\Desktop\Dani\WEBHOOKS\WEBHOOKS\whCreciendo\wh_Creciendo\wh_Creciendo\bin\Debug\net6.0\wh_Creciendo.runtimeconfig.json
+C:\Users\jvargas\Desktop\Dani\WEBHOOKS\WEBHOOKS\whCreciendo\wh_Creciendo\wh_Creciendo\bin\Debug\net6.0\wh_Creciendo.dll
+C:\Users\jvargas\Desktop\Dani\WEBHOOKS\WEBHOOKS\whCreciendo\wh_Creciendo\wh_Creciendo\bin\Debug\net6.0\wh_Creciendo.pdb
+C:\Users\jvargas\Desktop\Dani\WEBHOOKS\WEBHOOKS\whCreciendo\wh_Creciendo\wh_Creciendo\bin\Debug\net6.0\Microsoft.OpenApi.dll
+C:\Users\jvargas\Desktop\Dani\WEBHOOKS\WEBHOOKS\whCreciendo\wh_Creciendo\wh_Creciendo\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\jvargas\Desktop\Dani\WEBHOOKS\WEBHOOKS\whCreciendo\wh_Creciendo\wh_Creciendo\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\jvargas\Desktop\Dani\WEBHOOKS\WEBHOOKS\whCreciendo\wh_Creciendo\wh_Creciendo\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\jvargas\Desktop\Dani\WEBHOOKS\WEBHOOKS\whCreciendo\wh_Creciendo\wh_Creciendo\obj\Debug\net6.0\wh_Creciendo.csproj.AssemblyReference.cache
+C:\Users\jvargas\Desktop\Dani\WEBHOOKS\WEBHOOKS\whCreciendo\wh_Creciendo\wh_Creciendo\obj\Debug\net6.0\wh_Creciendo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jvargas\Desktop\Dani\WEBHOOKS\WEBHOOKS\whCreciendo\wh_Creciendo\wh_Creciendo\obj\Debug\net6.0\wh_Creciendo.AssemblyInfoInputs.cache
+C:\Users\jvargas\Desktop\Dani\WEBHOOKS\WEBHOOKS\whCreciendo\wh_Creciendo\wh_Creciendo\obj\Debug\net6.0\wh_Creciendo.AssemblyInfo.cs
+C:\Users\jvargas\Desktop\Dani\WEBHOOKS\WEBHOOKS\whCreciendo\wh_Creciendo\wh_Creciendo\obj\Debug\net6.0\wh_Creciendo.csproj.CoreCompileInputs.cache
+C:\Users\jvargas\Desktop\Dani\WEBHOOKS\WEBHOOKS\whCreciendo\wh_Creciendo\wh_Creciendo\obj\Debug\net6.0\wh_Creciendo.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\jvargas\Desktop\Dani\WEBHOOKS\WEBHOOKS\whCreciendo\wh_Creciendo\wh_Creciendo\obj\Debug\net6.0\wh_Creciendo.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\jvargas\Desktop\Dani\WEBHOOKS\WEBHOOKS\whCreciendo\wh_Creciendo\wh_Creciendo\obj\Debug\net6.0\staticwebassets\msbuild.wh_Creciendo.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\jvargas\Desktop\Dani\WEBHOOKS\WEBHOOKS\whCreciendo\wh_Creciendo\wh_Creciendo\obj\Debug\net6.0\staticwebassets\msbuild.build.wh_Creciendo.props
+C:\Users\jvargas\Desktop\Dani\WEBHOOKS\WEBHOOKS\whCreciendo\wh_Creciendo\wh_Creciendo\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.wh_Creciendo.props
+C:\Users\jvargas\Desktop\Dani\WEBHOOKS\WEBHOOKS\whCreciendo\wh_Creciendo\wh_Creciendo\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.wh_Creciendo.props
+C:\Users\jvargas\Desktop\Dani\WEBHOOKS\WEBHOOKS\whCreciendo\wh_Creciendo\wh_Creciendo\obj\Debug\net6.0\staticwebassets.pack.json
+C:\Users\jvargas\Desktop\Dani\WEBHOOKS\WEBHOOKS\whCreciendo\wh_Creciendo\wh_Creciendo\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\jvargas\Desktop\Dani\WEBHOOKS\WEBHOOKS\whCreciendo\wh_Creciendo\wh_Creciendo\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\jvargas\Desktop\Dani\WEBHOOKS\WEBHOOKS\whCreciendo\wh_Creciendo\wh_Creciendo\obj\Debug\net6.0\scopedcss\bundle\wh_Creciendo.styles.css
+C:\Users\jvargas\Desktop\Dani\WEBHOOKS\WEBHOOKS\whCreciendo\wh_Creciendo\wh_Creciendo\obj\Debug\net6.0\wh_Creciendo.csproj.CopyComplete
+C:\Users\jvargas\Desktop\Dani\WEBHOOKS\WEBHOOKS\whCreciendo\wh_Creciendo\wh_Creciendo\obj\Debug\net6.0\wh_Creciendo.dll
+C:\Users\jvargas\Desktop\Dani\WEBHOOKS\WEBHOOKS\whCreciendo\wh_Creciendo\wh_Creciendo\obj\Debug\net6.0\refint\wh_Creciendo.dll
+C:\Users\jvargas\Desktop\Dani\WEBHOOKS\WEBHOOKS\whCreciendo\wh_Creciendo\wh_Creciendo\obj\Debug\net6.0\wh_Creciendo.pdb
+C:\Users\jvargas\Desktop\Dani\WEBHOOKS\WEBHOOKS\whCreciendo\wh_Creciendo\wh_Creciendo\obj\Debug\net6.0\wh_Creciendo.genruntimeconfig.cache
+C:\Users\jvargas\Desktop\Dani\WEBHOOKS\WEBHOOKS\whCreciendo\wh_Creciendo\wh_Creciendo\obj\Debug\net6.0\ref\wh_Creciendo.dll
+C:\Users\jvargas\Documents\DANIELA\WEBHOOKS\WEBHOOKS\whCreciendo\wh_Creciendo\wh_Creciendo\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\jvargas\Documents\DANIELA\WEBHOOKS\WEBHOOKS\whCreciendo\wh_Creciendo\wh_Creciendo\bin\Debug\net6.0\appsettings.json
+C:\Users\jvargas\Documents\DANIELA\WEBHOOKS\WEBHOOKS\whCreciendo\wh_Creciendo\wh_Creciendo\bin\Debug\net6.0\wh_Creciendo.exe
+C:\Users\jvargas\Documents\DANIELA\WEBHOOKS\WEBHOOKS\whCreciendo\wh_Creciendo\wh_Creciendo\bin\Debug\net6.0\wh_Creciendo.deps.json
+C:\Users\jvargas\Documents\DANIELA\WEBHOOKS\WEBHOOKS\whCreciendo\wh_Creciendo\wh_Creciendo\bin\Debug\net6.0\wh_Creciendo.runtimeconfig.json
+C:\Users\jvargas\Documents\DANIELA\WEBHOOKS\WEBHOOKS\whCreciendo\wh_Creciendo\wh_Creciendo\bin\Debug\net6.0\wh_Creciendo.dll
+C:\Users\jvargas\Documents\DANIELA\WEBHOOKS\WEBHOOKS\whCreciendo\wh_Creciendo\wh_Creciendo\bin\Debug\net6.0\wh_Creciendo.pdb
+C:\Users\jvargas\Documents\DANIELA\WEBHOOKS\WEBHOOKS\whCreciendo\wh_Creciendo\wh_Creciendo\bin\Debug\net6.0\Microsoft.OpenApi.dll
+C:\Users\jvargas\Documents\DANIELA\WEBHOOKS\WEBHOOKS\whCreciendo\wh_Creciendo\wh_Creciendo\bin\Debug\net6.0\Newtonsoft.Json.dll
+C:\Users\jvargas\Documents\DANIELA\WEBHOOKS\WEBHOOKS\whCreciendo\wh_Creciendo\wh_Creciendo\bin\Debug\net6.0\RestSharp.dll
+C:\Users\jvargas\Documents\DANIELA\WEBHOOKS\WEBHOOKS\whCreciendo\wh_Creciendo\wh_Creciendo\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\jvargas\Documents\DANIELA\WEBHOOKS\WEBHOOKS\whCreciendo\wh_Creciendo\wh_Creciendo\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\jvargas\Documents\DANIELA\WEBHOOKS\WEBHOOKS\whCreciendo\wh_Creciendo\wh_Creciendo\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\jvargas\Documents\DANIELA\WEBHOOKS\WEBHOOKS\whCreciendo\wh_Creciendo\wh_Creciendo\bin\Debug\net6.0\System.Data.SqlClient.dll
+C:\Users\jvargas\Documents\DANIELA\WEBHOOKS\WEBHOOKS\whCreciendo\wh_Creciendo\wh_Creciendo\bin\Debug\net6.0\System.Text.Encodings.Web.dll
+C:\Users\jvargas\Documents\DANIELA\WEBHOOKS\WEBHOOKS\whCreciendo\wh_Creciendo\wh_Creciendo\bin\Debug\net6.0\System.Text.Json.dll
+C:\Users\jvargas\Documents\DANIELA\WEBHOOKS\WEBHOOKS\whCreciendo\wh_Creciendo\wh_Creciendo\bin\Debug\net6.0\runtimes\win-arm64\native\sni.dll
+C:\Users\jvargas\Documents\DANIELA\WEBHOOKS\WEBHOOKS\whCreciendo\wh_Creciendo\wh_Creciendo\bin\Debug\net6.0\runtimes\win-x64\native\sni.dll
+C:\Users\jvargas\Documents\DANIELA\WEBHOOKS\WEBHOOKS\whCreciendo\wh_Creciendo\wh_Creciendo\bin\Debug\net6.0\runtimes\win-x86\native\sni.dll
+C:\Users\jvargas\Documents\DANIELA\WEBHOOKS\WEBHOOKS\whCreciendo\wh_Creciendo\wh_Creciendo\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\jvargas\Documents\DANIELA\WEBHOOKS\WEBHOOKS\whCreciendo\wh_Creciendo\wh_Creciendo\bin\Debug\net6.0\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\jvargas\Documents\DANIELA\WEBHOOKS\WEBHOOKS\whCreciendo\wh_Creciendo\wh_Creciendo\bin\Debug\net6.0\runtimes\browser\lib\net6.0\System.Text.Encodings.Web.dll
+C:\Users\jvargas\Documents\DANIELA\WEBHOOKS\WEBHOOKS\whCreciendo\wh_Creciendo\wh_Creciendo\obj\Debug\net6.0\wh_Creciendo.csproj.AssemblyReference.cache
+C:\Users\jvargas\Documents\DANIELA\WEBHOOKS\WEBHOOKS\whCreciendo\wh_Creciendo\wh_Creciendo\obj\Debug\net6.0\wh_Creciendo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jvargas\Documents\DANIELA\WEBHOOKS\WEBHOOKS\whCreciendo\wh_Creciendo\wh_Creciendo\obj\Debug\net6.0\wh_Creciendo.AssemblyInfoInputs.cache
+C:\Users\jvargas\Documents\DANIELA\WEBHOOKS\WEBHOOKS\whCreciendo\wh_Creciendo\wh_Creciendo\obj\Debug\net6.0\wh_Creciendo.AssemblyInfo.cs
+C:\Users\jvargas\Documents\DANIELA\WEBHOOKS\WEBHOOKS\whCreciendo\wh_Creciendo\wh_Creciendo\obj\Debug\net6.0\wh_Creciendo.csproj.CoreCompileInputs.cache
+C:\Users\jvargas\Documents\DANIELA\WEBHOOKS\WEBHOOKS\whCreciendo\wh_Creciendo\wh_Creciendo\obj\Debug\net6.0\wh_Creciendo.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\jvargas\Documents\DANIELA\WEBHOOKS\WEBHOOKS\whCreciendo\wh_Creciendo\wh_Creciendo\obj\Debug\net6.0\wh_Creciendo.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\jvargas\Documents\DANIELA\WEBHOOKS\WEBHOOKS\whCreciendo\wh_Creciendo\wh_Creciendo\obj\Debug\net6.0\staticwebassets\msbuild.wh_Creciendo.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\jvargas\Documents\DANIELA\WEBHOOKS\WEBHOOKS\whCreciendo\wh_Creciendo\wh_Creciendo\obj\Debug\net6.0\staticwebassets\msbuild.build.wh_Creciendo.props
+C:\Users\jvargas\Documents\DANIELA\WEBHOOKS\WEBHOOKS\whCreciendo\wh_Creciendo\wh_Creciendo\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.wh_Creciendo.props
+C:\Users\jvargas\Documents\DANIELA\WEBHOOKS\WEBHOOKS\whCreciendo\wh_Creciendo\wh_Creciendo\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.wh_Creciendo.props
+C:\Users\jvargas\Documents\DANIELA\WEBHOOKS\WEBHOOKS\whCreciendo\wh_Creciendo\wh_Creciendo\obj\Debug\net6.0\staticwebassets.pack.json
+C:\Users\jvargas\Documents\DANIELA\WEBHOOKS\WEBHOOKS\whCreciendo\wh_Creciendo\wh_Creciendo\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\jvargas\Documents\DANIELA\WEBHOOKS\WEBHOOKS\whCreciendo\wh_Creciendo\wh_Creciendo\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\jvargas\Documents\DANIELA\WEBHOOKS\WEBHOOKS\whCreciendo\wh_Creciendo\wh_Creciendo\obj\Debug\net6.0\scopedcss\bundle\wh_Creciendo.styles.css
+C:\Users\jvargas\Documents\DANIELA\WEBHOOKS\WEBHOOKS\whCreciendo\wh_Creciendo\wh_Creciendo\obj\Debug\net6.0\wh_Creciendo.csproj.CopyComplete
+C:\Users\jvargas\Documents\DANIELA\WEBHOOKS\WEBHOOKS\whCreciendo\wh_Creciendo\wh_Creciendo\obj\Debug\net6.0\wh_Creciendo.dll
+C:\Users\jvargas\Documents\DANIELA\WEBHOOKS\WEBHOOKS\whCreciendo\wh_Creciendo\wh_Creciendo\obj\Debug\net6.0\refint\wh_Creciendo.dll
+C:\Users\jvargas\Documents\DANIELA\WEBHOOKS\WEBHOOKS\whCreciendo\wh_Creciendo\wh_Creciendo\obj\Debug\net6.0\wh_Creciendo.pdb
+C:\Users\jvargas\Documents\DANIELA\WEBHOOKS\WEBHOOKS\whCreciendo\wh_Creciendo\wh_Creciendo\obj\Debug\net6.0\wh_Creciendo.genruntimeconfig.cache
+C:\Users\jvargas\Documents\DANIELA\WEBHOOKS\WEBHOOKS\whCreciendo\wh_Creciendo\wh_Creciendo\obj\Debug\net6.0\ref\wh_Creciendo.dll
+C:\Users\jvargas\Desktop\PROYECTO\wh_Creciendo\wh_Creciendo\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\jvargas\Desktop\PROYECTO\wh_Creciendo\wh_Creciendo\bin\Debug\net6.0\appsettings.json
+C:\Users\jvargas\Desktop\PROYECTO\wh_Creciendo\wh_Creciendo\bin\Debug\net6.0\wh_Creciendo.exe
+C:\Users\jvargas\Desktop\PROYECTO\wh_Creciendo\wh_Creciendo\bin\Debug\net6.0\wh_Creciendo.deps.json
+C:\Users\jvargas\Desktop\PROYECTO\wh_Creciendo\wh_Creciendo\bin\Debug\net6.0\wh_Creciendo.runtimeconfig.json
+C:\Users\jvargas\Desktop\PROYECTO\wh_Creciendo\wh_Creciendo\bin\Debug\net6.0\wh_Creciendo.dll
+C:\Users\jvargas\Desktop\PROYECTO\wh_Creciendo\wh_Creciendo\bin\Debug\net6.0\wh_Creciendo.pdb
+C:\Users\jvargas\Desktop\PROYECTO\wh_Creciendo\wh_Creciendo\bin\Debug\net6.0\Microsoft.OpenApi.dll
+C:\Users\jvargas\Desktop\PROYECTO\wh_Creciendo\wh_Creciendo\bin\Debug\net6.0\Newtonsoft.Json.dll
+C:\Users\jvargas\Desktop\PROYECTO\wh_Creciendo\wh_Creciendo\bin\Debug\net6.0\RestSharp.dll
+C:\Users\jvargas\Desktop\PROYECTO\wh_Creciendo\wh_Creciendo\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\jvargas\Desktop\PROYECTO\wh_Creciendo\wh_Creciendo\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\jvargas\Desktop\PROYECTO\wh_Creciendo\wh_Creciendo\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\jvargas\Desktop\PROYECTO\wh_Creciendo\wh_Creciendo\bin\Debug\net6.0\System.Data.SqlClient.dll
+C:\Users\jvargas\Desktop\PROYECTO\wh_Creciendo\wh_Creciendo\bin\Debug\net6.0\System.Text.Encodings.Web.dll
+C:\Users\jvargas\Desktop\PROYECTO\wh_Creciendo\wh_Creciendo\bin\Debug\net6.0\System.Text.Json.dll
+C:\Users\jvargas\Desktop\PROYECTO\wh_Creciendo\wh_Creciendo\bin\Debug\net6.0\runtimes\win-arm64\native\sni.dll
+C:\Users\jvargas\Desktop\PROYECTO\wh_Creciendo\wh_Creciendo\bin\Debug\net6.0\runtimes\win-x64\native\sni.dll
+C:\Users\jvargas\Desktop\PROYECTO\wh_Creciendo\wh_Creciendo\bin\Debug\net6.0\runtimes\win-x86\native\sni.dll
+C:\Users\jvargas\Desktop\PROYECTO\wh_Creciendo\wh_Creciendo\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\jvargas\Desktop\PROYECTO\wh_Creciendo\wh_Creciendo\bin\Debug\net6.0\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\jvargas\Desktop\PROYECTO\wh_Creciendo\wh_Creciendo\bin\Debug\net6.0\runtimes\browser\lib\net6.0\System.Text.Encodings.Web.dll
+C:\Users\jvargas\Desktop\PROYECTO\wh_Creciendo\wh_Creciendo\obj\Debug\net6.0\wh_Creciendo.csproj.AssemblyReference.cache
+C:\Users\jvargas\Desktop\PROYECTO\wh_Creciendo\wh_Creciendo\obj\Debug\net6.0\wh_Creciendo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jvargas\Desktop\PROYECTO\wh_Creciendo\wh_Creciendo\obj\Debug\net6.0\wh_Creciendo.AssemblyInfoInputs.cache
+C:\Users\jvargas\Desktop\PROYECTO\wh_Creciendo\wh_Creciendo\obj\Debug\net6.0\wh_Creciendo.AssemblyInfo.cs
+C:\Users\jvargas\Desktop\PROYECTO\wh_Creciendo\wh_Creciendo\obj\Debug\net6.0\wh_Creciendo.csproj.CoreCompileInputs.cache
+C:\Users\jvargas\Desktop\PROYECTO\wh_Creciendo\wh_Creciendo\obj\Debug\net6.0\wh_Creciendo.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\jvargas\Desktop\PROYECTO\wh_Creciendo\wh_Creciendo\obj\Debug\net6.0\wh_Creciendo.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\jvargas\Desktop\PROYECTO\wh_Creciendo\wh_Creciendo\obj\Debug\net6.0\staticwebassets\msbuild.wh_Creciendo.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\jvargas\Desktop\PROYECTO\wh_Creciendo\wh_Creciendo\obj\Debug\net6.0\staticwebassets\msbuild.build.wh_Creciendo.props
+C:\Users\jvargas\Desktop\PROYECTO\wh_Creciendo\wh_Creciendo\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.wh_Creciendo.props
+C:\Users\jvargas\Desktop\PROYECTO\wh_Creciendo\wh_Creciendo\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.wh_Creciendo.props
+C:\Users\jvargas\Desktop\PROYECTO\wh_Creciendo\wh_Creciendo\obj\Debug\net6.0\staticwebassets.pack.json
+C:\Users\jvargas\Desktop\PROYECTO\wh_Creciendo\wh_Creciendo\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\jvargas\Desktop\PROYECTO\wh_Creciendo\wh_Creciendo\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\jvargas\Desktop\PROYECTO\wh_Creciendo\wh_Creciendo\obj\Debug\net6.0\scopedcss\bundle\wh_Creciendo.styles.css
+C:\Users\jvargas\Desktop\PROYECTO\wh_Creciendo\wh_Creciendo\obj\Debug\net6.0\wh_Creciendo.csproj.CopyComplete
+C:\Users\jvargas\Desktop\PROYECTO\wh_Creciendo\wh_Creciendo\obj\Debug\net6.0\wh_Creciendo.dll
+C:\Users\jvargas\Desktop\PROYECTO\wh_Creciendo\wh_Creciendo\obj\Debug\net6.0\refint\wh_Creciendo.dll
+C:\Users\jvargas\Desktop\PROYECTO\wh_Creciendo\wh_Creciendo\obj\Debug\net6.0\wh_Creciendo.pdb
+C:\Users\jvargas\Desktop\PROYECTO\wh_Creciendo\wh_Creciendo\obj\Debug\net6.0\wh_Creciendo.genruntimeconfig.cache
+C:\Users\jvargas\Desktop\PROYECTO\wh_Creciendo\wh_Creciendo\obj\Debug\net6.0\ref\wh_Creciendo.dll
+D:\Descargas\wh_Creciendo\wh_Creciendo\bin\Debug\net6.0\appsettings.Development.json
+D:\Descargas\wh_Creciendo\wh_Creciendo\bin\Debug\net6.0\appsettings.json
+D:\Descargas\wh_Creciendo\wh_Creciendo\bin\Debug\net6.0\wh_Creciendo.exe
+D:\Descargas\wh_Creciendo\wh_Creciendo\bin\Debug\net6.0\wh_Creciendo.deps.json
+D:\Descargas\wh_Creciendo\wh_Creciendo\bin\Debug\net6.0\wh_Creciendo.runtimeconfig.json
+D:\Descargas\wh_Creciendo\wh_Creciendo\bin\Debug\net6.0\wh_Creciendo.dll
+D:\Descargas\wh_Creciendo\wh_Creciendo\bin\Debug\net6.0\wh_Creciendo.pdb
+D:\Descargas\wh_Creciendo\wh_Creciendo\bin\Debug\net6.0\Microsoft.OpenApi.dll
+D:\Descargas\wh_Creciendo\wh_Creciendo\bin\Debug\net6.0\Newtonsoft.Json.dll
+D:\Descargas\wh_Creciendo\wh_Creciendo\bin\Debug\net6.0\RestSharp.dll
+D:\Descargas\wh_Creciendo\wh_Creciendo\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+D:\Descargas\wh_Creciendo\wh_Creciendo\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+D:\Descargas\wh_Creciendo\wh_Creciendo\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+D:\Descargas\wh_Creciendo\wh_Creciendo\bin\Debug\net6.0\System.Data.SqlClient.dll
+D:\Descargas\wh_Creciendo\wh_Creciendo\bin\Debug\net6.0\System.Text.Encodings.Web.dll
+D:\Descargas\wh_Creciendo\wh_Creciendo\bin\Debug\net6.0\System.Text.Json.dll
+D:\Descargas\wh_Creciendo\wh_Creciendo\bin\Debug\net6.0\runtimes\win-arm64\native\sni.dll
+D:\Descargas\wh_Creciendo\wh_Creciendo\bin\Debug\net6.0\runtimes\win-x64\native\sni.dll
+D:\Descargas\wh_Creciendo\wh_Creciendo\bin\Debug\net6.0\runtimes\win-x86\native\sni.dll
+D:\Descargas\wh_Creciendo\wh_Creciendo\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+D:\Descargas\wh_Creciendo\wh_Creciendo\bin\Debug\net6.0\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+D:\Descargas\wh_Creciendo\wh_Creciendo\bin\Debug\net6.0\runtimes\browser\lib\net6.0\System.Text.Encodings.Web.dll
+D:\Descargas\wh_Creciendo\wh_Creciendo\obj\Debug\net6.0\wh_Creciendo.csproj.AssemblyReference.cache
+D:\Descargas\wh_Creciendo\wh_Creciendo\obj\Debug\net6.0\wh_Creciendo.GeneratedMSBuildEditorConfig.editorconfig
+D:\Descargas\wh_Creciendo\wh_Creciendo\obj\Debug\net6.0\wh_Creciendo.AssemblyInfoInputs.cache
+D:\Descargas\wh_Creciendo\wh_Creciendo\obj\Debug\net6.0\wh_Creciendo.AssemblyInfo.cs
+D:\Descargas\wh_Creciendo\wh_Creciendo\obj\Debug\net6.0\wh_Creciendo.csproj.CoreCompileInputs.cache
+D:\Descargas\wh_Creciendo\wh_Creciendo\obj\Debug\net6.0\wh_Creciendo.MvcApplicationPartsAssemblyInfo.cs
+D:\Descargas\wh_Creciendo\wh_Creciendo\obj\Debug\net6.0\wh_Creciendo.MvcApplicationPartsAssemblyInfo.cache
+D:\Descargas\wh_Creciendo\wh_Creciendo\obj\Debug\net6.0\staticwebassets\msbuild.wh_Creciendo.Microsoft.AspNetCore.StaticWebAssets.props
+D:\Descargas\wh_Creciendo\wh_Creciendo\obj\Debug\net6.0\staticwebassets\msbuild.build.wh_Creciendo.props
+D:\Descargas\wh_Creciendo\wh_Creciendo\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.wh_Creciendo.props
+D:\Descargas\wh_Creciendo\wh_Creciendo\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.wh_Creciendo.props
+D:\Descargas\wh_Creciendo\wh_Creciendo\obj\Debug\net6.0\staticwebassets.pack.json
+D:\Descargas\wh_Creciendo\wh_Creciendo\obj\Debug\net6.0\staticwebassets.build.json
+D:\Descargas\wh_Creciendo\wh_Creciendo\obj\Debug\net6.0\staticwebassets.development.json
+D:\Descargas\wh_Creciendo\wh_Creciendo\obj\Debug\net6.0\scopedcss\bundle\wh_Creciendo.styles.css
+D:\Descargas\wh_Creciendo\wh_Creciendo\obj\Debug\net6.0\wh_Creciendo.csproj.CopyComplete
+D:\Descargas\wh_Creciendo\wh_Creciendo\obj\Debug\net6.0\wh_Creciendo.dll
+D:\Descargas\wh_Creciendo\wh_Creciendo\obj\Debug\net6.0\refint\wh_Creciendo.dll
+D:\Descargas\wh_Creciendo\wh_Creciendo\obj\Debug\net6.0\wh_Creciendo.pdb
+D:\Descargas\wh_Creciendo\wh_Creciendo\obj\Debug\net6.0\wh_Creciendo.genruntimeconfig.cache
+D:\Descargas\wh_Creciendo\wh_Creciendo\obj\Debug\net6.0\ref\wh_Creciendo.dll
